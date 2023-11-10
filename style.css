@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    background: rgb(2,0,36);
+    background: linear-gradient(176deg, rgba(2,0,36,1) 0%, rgba(121,121,121,1) 100%);
+    padding: 1rem;
+}
+.main_center_image{
+    width: 100vw;
+    height: 70vh;
+}
+.imag_sec{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4rem;
+}
+.about_image{
+    height: 15rem;
+}
+.one{
+
+}
+.two{
+
+}
+.three{
+
+}
+.blog_sec{
+    display: flex;
+    align-items: center;
+    margin-top: 5rem;
+
+}
+.blog_content{
+    width: 50vw;
+}
+.blog_img{
+    width: 50vw;
+}
